@@ -4,6 +4,7 @@
   "post": 5432,
   "username": "postgres",
   "password": "postgres",
+  "database": "authorization",
   "entities": [
     "./src/models/*.ts"
   ],
